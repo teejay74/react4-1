@@ -1,0 +1,24 @@
+  
+.Main {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.Form-Block {
+    box-sizing: border-box;
+    margin-top: 400px;
+}
+
+
+.Input {
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+}
